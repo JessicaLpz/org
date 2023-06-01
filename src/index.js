@@ -1,6 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
+import React from 'react';  //esto es de la biblioteca de react//
+import ReactDOM from 'react-dom/client'; //esto nos ayuda a trabajar con react y con el DOM//
+import './index.css'; //algunos estillo//
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
